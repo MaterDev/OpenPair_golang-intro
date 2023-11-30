@@ -1,8 +1,8 @@
-# OpenPear: Golang Intro
+# OpenPair: Golang Intro
 
 ![Cover Image](./cover.png)
 
-Welcome to the "OpenPear: Golang Intro" tutorial! This tutorial is designed to provide you with a fundamental introduction to the Go programming language (Golang). Whether you're new to programming or transitioning from another language, this tutorial will help you grasp the basics of Go.
+Welcome to the "OpenPair: Golang Intro" tutorial! This tutorial is designed to provide you with a fundamental introduction to the Go programming language (Golang). Whether you're new to programming or transitioning from another language, this tutorial will help you grasp the basics of Go.
 
 ## Contents
 

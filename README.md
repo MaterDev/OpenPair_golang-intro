@@ -15,7 +15,7 @@ Welcome to the "OpenPear: Golang Intro" tutorial! This tutorial is designed to p
 7. **Structs**: Explore structs to create custom data types with named fields.
 8. **Error Handling**: Understand Go's error handling mechanism to manage exceptional situations.
 9. **Defer and Panic**: Learn about the `defer` statement for clean-up tasks and the `panic` function for critical errors.
-   
+
 ## Useful Resources
 
 To deepen your understanding of Go and further your learning, here are some useful resources:
